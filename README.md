@@ -129,12 +129,3 @@ Run the program:
 
 python stopwatch.py
 
-💡 Future Improvements
-
-Lap time feature
-
-Keyboard shortcuts
-
-Dark mode UI
-
-Save recorded times
